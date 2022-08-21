@@ -8,5 +8,5 @@
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leet Code"/>
-  <img src="https://img.shields.io/badge/hackerrank-blue?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hacker Rank"/>
+  <img src="https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hacker Rank"/>
 </div>
