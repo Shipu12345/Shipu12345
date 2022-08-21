@@ -40,4 +40,4 @@
 
 - :zap: In my free time, I solve problems on Various sites and build new Rices for my Arch.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shipankar-sarker-498528196/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shipankar-sarker-498528196/)
