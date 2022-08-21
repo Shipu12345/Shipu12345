@@ -34,10 +34,10 @@
 
 
 ### :technologist: About Me : Hi, I am Shipu. I am a Data Engineer <img src="https://media.giphy.com/media/y47oj4ptjPm5W/giphy.gif" width="30"> from Bangladesh.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Data Engineer and contributing for building a new view to data.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Various Technical Ways To Make Life Easier.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Various sites and build new Rices for my Arch.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shipankar-sarker-498528196/)
