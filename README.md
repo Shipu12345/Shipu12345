@@ -6,7 +6,14 @@
 <h1> Shipu </h1> 
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leet Code"/>
-  <img src="https://img.shields.io/badge/hackerrank-success?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hacker Rank"/>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leet Code"/>
+  </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/hackerrank-success?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hacker Rank"/>
+  </a>
+  
 </div>
