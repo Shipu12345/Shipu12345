@@ -33,7 +33,7 @@
 </div>
 
 
-### :technologist: About Me : Hi, I am Shipu. I am a Data Engineer <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="30"> from Bangladesh.
+### :technologist: About Me : Hi, I am Shipu. I am a Data Engineer <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="30"> from Bangladesh.
 - :telescope: I’m working as a Data Engineer and contributing for building a new view to data.
 
 - :seedling: Exploring Various Technical Ways To Make Life Easier.
