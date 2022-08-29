@@ -75,3 +75,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shipu12345&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ipasha?theme=nord&font=Noto%20Sans&ext=activity)
+
