@@ -34,7 +34,7 @@
 
 
 ### :technologist: About Me: Hi, I am Shipu. I am a Software Engineer <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="30"> from Bangladesh.
-- :telescope: I’m working as a Software Engineer **||** in Polygon Technology.
+- :telescope: I’m working as a Software Engineer in Polygon Technology.
 
 - :seedling: Exploring Various Technical Ways To Make Life Easier.
 
